@@ -1,0 +1,65 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    .carousel-item {
+        height: 836px; /* Adjust the height as needed */
+    }
+
+        .carousel-item img {
+            object-fit: cover; /* This will cover the area of the div without stretching the image */
+            height: 100%;
+        }
+
+    .carousel-caption {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        bottom: auto;
+        right: auto;
+        text-align: center;
+    }
+</style>
+
+<div id="homepageCarousel" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="~/indeximgs/img3.jpg" class="d-block w-100" alt="Image One" style="filter: blur(1px);">
+            <div class="carousel-caption d-none d-md-block">
+                <h1>Welcome to LuxeLoft</h1>
+                <p>Where Every Listing is a Luxe Experience.</p>
+                <a class="btn btn-primary" href="@Url.Action("Index", "Properties")">View all properties</a>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img src="~/indeximgs/img2.jpg" class="d-block w-100" alt="Image Two" style="filter: blur(1px);">
+        </div>
+        <div class="carousel-item">
+            <img src="~/indeximgs/img1.jpg" class="d-block w-100" alt="Image Three" style="filter: blur(1px);">
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#homepageCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#homepageCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
+
+@section Scripts {
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var myCarousel = document.getElementById('homepageCarousel');
+            new bootstrap.Carousel(myCarousel, {
+                interval: 2000,
+                wrap: true
+            });
+        });
+    </script>
+}
+
+

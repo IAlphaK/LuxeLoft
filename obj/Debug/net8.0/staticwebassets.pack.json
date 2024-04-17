@@ -1,0 +1,405 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LuxeLoft.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LuxeLoft.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\24e8f08ba83e34213572acbdb1061bf0240426024.jpg",
+      "PackagePath": "staticwebassets\\Img\\24e8f08ba83e34213572acbdb1061bf0240426024.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\24e8f08ba83e34213572acbdb1061bf0242742855.jpg",
+      "PackagePath": "staticwebassets\\Img\\24e8f08ba83e34213572acbdb1061bf0242742855.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\24e8f08ba83e34213572acbdb1061bf0243130961.jpg",
+      "PackagePath": "staticwebassets\\Img\\24e8f08ba83e34213572acbdb1061bf0243130961.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\24e8f08ba83e34213572acbdb1061bf0243640552.jpg",
+      "PackagePath": "staticwebassets\\Img\\24e8f08ba83e34213572acbdb1061bf0243640552.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841240441602.jpg",
+      "PackagePath": "staticwebassets\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841240441602.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841240501935.jpg",
+      "PackagePath": "staticwebassets\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841240501935.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841240608447.jpg",
+      "PackagePath": "staticwebassets\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841240608447.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841240702167.jpg",
+      "PackagePath": "staticwebassets\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841240702167.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841241425396.jpg",
+      "PackagePath": "staticwebassets\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841241425396.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841241458417.jpg",
+      "PackagePath": "staticwebassets\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841241458417.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841241618861.jpg",
+      "PackagePath": "staticwebassets\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841241618861.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841241637323.jpg",
+      "PackagePath": "staticwebassets\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841241637323.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841241710999.jpg",
+      "PackagePath": "staticwebassets\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841241710999.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841241739847.jpg",
+      "PackagePath": "staticwebassets\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841241739847.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841242119875.jpg",
+      "PackagePath": "staticwebassets\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841242119875.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841242857769.jpg",
+      "PackagePath": "staticwebassets\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841242857769.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841243211039.jpg",
+      "PackagePath": "staticwebassets\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841243211039.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841244344579.jpg",
+      "PackagePath": "staticwebassets\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841244344579.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841244814497.jpg",
+      "PackagePath": "staticwebassets\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841244814497.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841244849771.jpg",
+      "PackagePath": "staticwebassets\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841244849771.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841245943010.jpg",
+      "PackagePath": "staticwebassets\\Img\\3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841245943010.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\Emporium Mall245024964.webp",
+      "PackagePath": "staticwebassets\\Img\\Emporium Mall245024964.webp"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\LuxeLoft ERD240221936.png",
+      "PackagePath": "staticwebassets\\Img\\LuxeLoft ERD240221936.png"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\LuxeLoft ERD241212100.png",
+      "PackagePath": "staticwebassets\\Img\\LuxeLoft ERD241212100.png"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\LuxeLoft ERD242628855.png",
+      "PackagePath": "staticwebassets\\Img\\LuxeLoft ERD242628855.png"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\LuxeLoft ERD242640141.png",
+      "PackagePath": "staticwebassets\\Img\\LuxeLoft ERD242640141.png"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\LuxeLoft ERD242943400.png",
+      "PackagePath": "staticwebassets\\Img\\LuxeLoft ERD242943400.png"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\LuxeLoft ERD243204810.png",
+      "PackagePath": "staticwebassets\\Img\\LuxeLoft ERD243204810.png"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\LuxeLoft ERD243651112.png",
+      "PackagePath": "staticwebassets\\Img\\LuxeLoft ERD243651112.png"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\Office Complex245520600.jpg",
+      "PackagePath": "staticwebassets\\Img\\Office Complex245520600.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\Img\\img2244703119.jpg",
+      "PackagePath": "staticwebassets\\Img\\img2244703119.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\css\\luxtheme.css",
+      "PackagePath": "staticwebassets\\css\\luxtheme.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\indeximgs\\img1.jpg",
+      "PackagePath": "staticwebassets\\indeximgs\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\indeximgs\\img2.jpg",
+      "PackagePath": "staticwebassets\\indeximgs\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\indeximgs\\img3.jpg",
+      "PackagePath": "staticwebassets\\indeximgs\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\OneDrive\\Desktop\\University\\Semester 7\\AP\\LuxeLoft\\LuxeLoft\\LuxeLoft\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LuxeLoft.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LuxeLoft.props",
+      "PackagePath": "build\\LuxeLoft.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LuxeLoft.props",
+      "PackagePath": "buildMultiTargeting\\LuxeLoft.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LuxeLoft.props",
+      "PackagePath": "buildTransitive\\LuxeLoft.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

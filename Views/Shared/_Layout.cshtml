@@ -1,0 +1,83 @@
+﻿@using Microsoft.AspNetCore.Http
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - LuxeLoft</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap.min.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/luxtheme.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/LuxeLoft.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">LuxeLoft</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarColor03">
+                    <!-- User mode dependent links -->
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <ul class="navbar-nav me-auto">
+                            <li class="nav-item">
+                                <a class="nav-link" asp-controller="User" asp-action="SwitchMode" asp-route-mode="@(Context.Session.GetString("UserMode") == "Buying" ? "Selling" : "Buying")">
+                                    Switch to @(Context.Session.GetString("UserMode") == "Buying" ? "Selling" : "Buying")
+                                </a>
+                            </li>
+                            @if (Context.Session.GetString("UserMode") == "Buying")
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Properties" asp-action="FavProperties">Favourite Properties</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Properties" asp-action="SearchProperties">Search Properties</a>
+                                </li>
+                                <!-- Add other buyer-specific links here -->
+                            }
+                            else if (Context.Session.GetString("UserMode") == "Selling")
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Properties" asp-action="Create">Add Property</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Properties" asp-action="MyListings">My Listings</a>
+                                </li>
+                                <!-- Add other seller-specific links here -->
+                            }
+                            <!-- Switch mode link -->
+                            
+                        </ul>
+                    }
+
+                    <!-- LoginPartial for login and account management -->
+                    <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                        <partial name="_LoginPartial.cshtml" />
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2023 - LuxeLoft</a>
+        </div>
+    </footer>
+    <script src="~/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

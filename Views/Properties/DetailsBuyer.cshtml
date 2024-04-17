@@ -1,0 +1,72 @@
+﻿@model LuxeLoft.Models.Property
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 style="padding-top:20px">Details</h1>
+
+<div>
+    <h4>Property</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Location)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Location)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Type)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Type)
+        </dd>
+        <dt class="col-sm-2">
+            Features
+        </dt>
+        <dd class="col-sm-10">
+            @if (Model.Features != null && Model.Features.Any())
+            {
+                <ul>
+                    @foreach (var feature in Model.Features)
+                    {
+                        <li>@feature.Feature_Name</li>
+                    }
+                </ul>
+            }
+            else
+            {
+                <p>No features listed.</p>
+            }
+        </dd>
+        <dt class="col-sm-2">
+            Thumbnail
+        </dt>
+        <dd class="col-sm-10">
+            <img src="@("~/Img/"+Model.Thumbnail)" asp-append-version="true" width="400px" height="400px" />
+        </dd>
+
+    </dl>
+</div>
+<div style="padding-top:5px">
+    <a asp-action="Index">Back to All Properties</a>
+</div>

@@ -1,0 +1,62 @@
+﻿@model IEnumerable<LuxeLoft.Models.Property>
+
+@{
+    ViewData["Title"] = ViewBag.IsSearchResult ? "Search Results" : "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 style="padding-top: 20px;">@(ViewBag.IsSearchResult ? "Search Results" : "Listed Properties")</h1>
+
+
+
+<p>
+    <a asp-action="Create"></a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Thumbnail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Location)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Type)
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                <td>
+                    <img src="@Url.Content("~/Img/" + item.Thumbnail)" width="200px" height="200px" />
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Location)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Type)
+            </td>
+
+            <td>
+                <a asp-action="DetailsBuyer" asp-route-id="@item.PropertyID">Details</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
